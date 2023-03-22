@@ -9,7 +9,6 @@
 | 22002359   | Erdem Eren Çağlar          |
 | 22003506   | Mahmut Mert Gençtürk       |
 | 21802270   | Cem Apaydın                |
-| 21803541   | Gizem Gökçe Işık           |
 
 ---
 
