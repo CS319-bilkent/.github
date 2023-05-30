@@ -19,4 +19,4 @@
 
 ### Deployment Diagram
 
-![deployment_diagram](./img/Screenshot%202023-05-30%20at%2020.55.27.png)
+![deployment_diagram](./img/deployment.png)
