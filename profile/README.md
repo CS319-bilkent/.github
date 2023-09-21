@@ -11,9 +11,9 @@
 
 ---
 
-> Frontend: [Repo](https://github.com/CS319-bilkent/CS319-project-frontend) [Live](http://bilkent-internship-management-frontend.s3-website.eu-central-1.amazonaws.com/)
+> Frontend: [Repo](https://github.com/CS319-bilkent/CS319-project-frontend) [Live](https://fe-ims.bilkent.edu.tr/)
 
-> Backend: [Repo](https://github.com/CS319-bilkent/CS319-project-backend) [Live](http://bilkent-internship-management.eu-central-1.elasticbeanstalk.com/)
+> Backend: [Repo](https://github.com/CS319-bilkent/CS319-project-backend) [Live](https://ims-be.bilkent.edu.tr/)
 
 ---
 
