@@ -19,4 +19,4 @@
 
 ### Deployment Diagram
 
-![deployment_diagram](./profile/img/deployment_diagram.png)
+![deployment_diagram](./profile/img/deployment_diagram.jpg)
